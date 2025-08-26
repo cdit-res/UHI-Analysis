@@ -116,6 +116,8 @@ All results, including plots, logs, and the interactive map, will be saved in th
 
 
 ## 🔮 Future Enhancements
+Currently I have my hands full with studies and the flood forecasting tool I am making these are future enancements but they have to wait for a bit
+Making the predictions more accurate in per small area divisions for better understanding and visualization
 Advanced Feature Integration: Incorporate population density, building height, and wind patterns.
 Temporal Trend Analysis: Study UHI evolution over multi-decade periods.
 Climate Change Projections: Integrate climate models to predict future UHI scenarios.
